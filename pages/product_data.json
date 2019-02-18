@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "/static/product-item/product-1.png",
+    "title": "Apple Watch",
+    "desc": "Series 4",
+    "price": 765
+  },
+  {
+    "id": 2,
+    "image": "/static/product-item/product-2.png",
+    "title": "ASUS ZenBook 3",
+    "desc": "UX390UA",
+    "price": 1423
+  },
+  {
+    "id": 3,
+    "image": "/static/product-item/product-3.png",
+    "title": "Sony SmartWatch",
+    "desc": "MN2",
+    "price": 652.7
+  }
+]
